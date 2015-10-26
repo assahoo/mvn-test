@@ -4,7 +4,7 @@
   <groupId>com.example.app</groupId>
   <artifactId>maven-app</artifactId>
   <packaging>jar</packaging>
-  <version>Babu_Sir_5.0-Apache</version>
+  <version>1.5_oneclick-Apache</version>
   <name>maven-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
