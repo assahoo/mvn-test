@@ -4,7 +4,8 @@
   <groupId>com.example.app</groupId>
   <artifactId>maven-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.7_oneclick-Apache</version>
+  <version>1.9_oneclick-v</ersion>
+  yment
   <name>maven-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
