@@ -4,8 +4,7 @@
   <groupId>com.example.app</groupId>
   <artifactId>maven-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.5-oneclick deployment-Ashok<version>
-
+  <version>1.5-oneclick deployment-Ashok</version>
   <name>maven-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
