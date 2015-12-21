@@ -91,7 +91,7 @@ height:10px;
 	</div>
 	<div id="app">
 		<div id='tab'  style='margin:4% 4% 4% 4%; align:center;'>
-			<h2 id='h'> This is the output of OneClick Deployment using an Automated-Framework devloped by Capgemini Middleware CoE. </h2>
+			<h2 id='h'> This is the output of OneClick Deployment using an Automated-Framework designed & devloped by Capgemini Middleware CoE. </h2>
 		</div>
 	</div>
 </div>
